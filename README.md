@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surya03-it
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Cloud Role
+- 🌱 I’m completed ... Aws Certification
 - 💞️ I’m looking to collaborate on ... Real time projects
 - 📫 How to reach me ... suryakamaraj7@gmail.com
 
